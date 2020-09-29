@@ -6,6 +6,6 @@ This app is a **e-shop** for books. The user can use this app for the following 
 1. create account
 2. find the books and 
 3. buy the books
-## Pratices
+## Practices
 * <a href="/assignments/My first interactive UI.png">  1.1:Andriod Studio and Hello World</a>
 
