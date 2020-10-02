@@ -1,6 +1,6 @@
 ## Code Challange
 ### Lanscape
-<img src="/images/f_UI(lanscape).png">
+<img src="/images/f_UI(landscape).png">
 
 ### Potrait
 <img src="/images/f_UI(portrait).png">
