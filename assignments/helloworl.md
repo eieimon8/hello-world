@@ -20,4 +20,4 @@ Which tool do you use to create a new emulator?
  * Debug
  * Info
 
-<img src="images/helloworld.png">
+<img src="/images/helloworld.png"><\img>
