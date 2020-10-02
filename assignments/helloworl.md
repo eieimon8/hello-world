@@ -19,3 +19,5 @@ Which tool do you use to create a new emulator?
  * Verbose
  * Debug
  * Info
+
+<img src="">
