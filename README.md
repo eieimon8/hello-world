@@ -13,4 +13,5 @@ This app is a **e-shop** for books. The user can use this app for the following 
     * <a href="/assignments/firstUI.md">  Part A :  My first Interactive UI</a>
     * <a href="/assignments/layouteditor.md">  Part B :  Layout Editor</a>
 * <a href="/images/Text and scrolling view.png">  1.3:Text and Scrolling View</a>
-
+### Lesson 2 : Activities and intents
+*<a href="/assignments/Intent.md"> 2.1  Activities and intents</a>
