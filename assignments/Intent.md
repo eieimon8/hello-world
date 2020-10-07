@@ -1,10 +1,15 @@
 ## Two Activity 
 <img src="/images/Intent.png">
+
 ## Coding Challange
+
 <img src="">
+
 ## Homework
+
 <img src="/images/Intent(Hw1).png">
-<img src="/images/Intent(Hw2).png">
+<img src="/images/intent(Hw2).png">
+
 ### Question 1
 
 What changes are made when you add a second Activity to your app by choosing File > New > Activity and an Activity template? 
