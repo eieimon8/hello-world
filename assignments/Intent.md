@@ -20,7 +20,7 @@ What changes are made when you add a second Activity to your app by choosing Fil
 
 What happens if you remove the android:parentActivityName and the <meta-data> elements from the second Activity declaration in the AndroidManifest.xml file?
   
-*
+* The Up button in the app bar no longer appears in the second Activity to send the user back to the parent Activity.
 
 ### Question 3
 
