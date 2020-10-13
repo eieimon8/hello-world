@@ -15,3 +15,5 @@ This app is a **e-shop** for books. The user can use this app for the following 
 * <a href="/images/Text and scrolling view.png">  1.3:Text and Scrolling View</a>
 ### Lesson 2 : Activities and intents
 *<a href="/assignments/Intent.md"> 2.1  Activities and intents</a>
+*<a href="/assignments/Intent.md"> 2.2  Activity lifecycle and State</a>
+*<a href="/assignments/implicitIntent.md"> 2.3  Implicit Intent</a>
