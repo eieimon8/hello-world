@@ -11,3 +11,7 @@
 ## Week 4. Activities and intents
 * <a href="https://codelabs.developers.google.com/codelabs/android-training-create-an-activity/index.html#5">Codelab 2.1: Activities and intents</a>
 <img src="/images/Twoactivity.png">
+
+## Week 5. Implicit Intents
+* <a href="https://codelabs.developers.google.com/codelabs/android-training-activity-with-implicit-intent/#5">Codelab 2.3: Implicit Intents</a>
+<img src="/images/Implicit Intent.png">
