@@ -4,6 +4,6 @@
 
 ## Week 3. Layouts and resources for the UI
 * <a href="https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a/#7"> Codelab 1.2 Part A: Your first interactive UI</a>
-<img src="/images/">
+<img src="/images/firstUI.png">
 * <a href="https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-b/#9">Codelab 1.2 Part B: The layout editor</a>
-<img src="">
+<img src="/images/layouteditor.png">
