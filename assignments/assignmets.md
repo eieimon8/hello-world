@@ -7,3 +7,7 @@
 <img src="/images/firstUI.png">
 * <a href="https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-b/#9">Codelab 1.2 Part B: The layout editor</a>
 <img src="/images/layouteditor.png">
+
+## Week 4. Activities and intents
+* <a href="https://codelabs.developers.google.com/codelabs/android-training-create-an-activity/index.html#5">Codelab 2.1: Activities and intents</a>
+<img src="/images/Twoactivity.png">
