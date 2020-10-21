@@ -15,6 +15,9 @@
 ## Week 5. Implicit Intents
 * <a href="https://codelabs.developers.google.com/codelabs/android-training-activity-with-implicit-intent/#5">Codelab 2.3: Implicit Intents</a>
 <img src="/images/Implicit Intent.png">
+
 ## Week 6. User Interaction
+
 * <a href=" https://codelabs.developers.google.com/codelabs/android-training-clickable-images#0 "> Codelab 4.0: Clickable images </a>
+
 <img src="/images/clickableimage.png">
