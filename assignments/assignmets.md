@@ -18,6 +18,5 @@
 
 ## Week 6. User Interaction
 
-* <a href=" https://codelabs.developers.google.com/codelabs/android-training-clickable-images#0 "> Codelab 4.0: Clickable images </a>
-
+* <a href="https://codelabs.developers.google.com/codelabs/android-training-clickable-images#0"> Codelab 4.0: Clickable images </a>
 <img src="/images/clickableimage.png">
