@@ -20,3 +20,7 @@
 
 * <a href="https://codelabs.developers.google.com/codelabs/android-training-clickable-images#0"> Codelab 4.0: Clickable images </a>
 <img src="/images/clickableimage.png">
+
+* <a href="https://codelabs.developers.google.com/codelabs/android-training-input-controls#5"> Codelab 4.2: Input Control </a>
+<img src="/images/inputcontrol.png">
+
