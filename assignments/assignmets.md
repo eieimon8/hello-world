@@ -24,3 +24,6 @@
 * <a href="https://codelabs.developers.google.com/codelabs/android-training-input-controls#5"> Codelab 4.2: Input Control </a>
 <img src="/images/inputcontrol.png">
 
+## Week 7. User Interaction
+* <a href="https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation"> Codelab 4.4: User Navigation </a>
+<img src="/images/usernavigation.png">
