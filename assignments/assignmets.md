@@ -26,4 +26,4 @@
 
 ## Week 7. User Interaction
 * <a href="https://codelabs.developers.google.com/codelabs/android-training-provide-user-navigation"> Codelab 4.4: User Navigation </a>
-<img src="/images/usernavigation.png">
+<img src="/images/user.png">
