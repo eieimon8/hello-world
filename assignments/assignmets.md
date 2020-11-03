@@ -30,3 +30,8 @@
 
 * <a href="https://codelabs.developers.google.com/codelabs/android-training-create-recycler-view#0"> Codelab 4.5: RecyclerView </a>
 <img src="/images/recyclerview.png">
+
+## Week 8. Material Design
+* <a href="https://codelabs.developers.google.com/codelabs/android-training-cards-and-colors#0"> Codelab 5.2: Cards and colors </a>
+<img src="/images/user.png">
+
