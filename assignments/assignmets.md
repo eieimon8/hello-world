@@ -35,3 +35,8 @@
 * <a href="https://codelabs.developers.google.com/codelabs/android-training-cards-and-colors#0"> Codelab 5.2: Cards and colors </a>
 <img src="/images/card.png">
 
+## Week 9. Background Tasks
+* <a href="https://developer.android.com/codelabs/android-training-asynctask-asynctaskloader#0"> Codelab 7.2: AsyncTask and AsyncTaskLoader </a>
+<img src="/images/backgroundtask.png">
+
+
