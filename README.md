@@ -8,7 +8,7 @@ This app is a **e-shop** for books. The user can use this app for the following 
 3. buy the books
 
 ## Codelabs Assignments 
-* <a href="/assignments/assignmets.md"> codelabs Assignments( Week 2 to Week 11)</a>
+* <a href="/assignments/assignmets.md"> codelabs Pratices( Week 2 to Week 11)</a>
 
 ## Practices
 
