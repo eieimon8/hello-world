@@ -43,5 +43,7 @@
 * <a href="https://developer.android.com/codelabs/android-training-notifications"> Codelab 8.1: Notification </a>
 <img src="/images/notifyme.png">
 
-
+## Week 11. Shared Preferences
+* <a href="https://developer.android.com/codelabs/android-training-shared-preferences#1"> Codelab 9.1: Shared Preferences </a>
+<img src="/images/sharepre.png">
 
