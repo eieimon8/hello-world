@@ -1,11 +1,12 @@
 # hello-world
 just another repository
 ## Assignment 2
-### Book Shop App
-This app is a **e-shop** for books. The user can use this app for the following functions.
-1. create account
-2. find the books and 
-3. buy the books
+### Note App
+This app is a note taking app.The NoteApp app stores a list of notes in a Room database and displays the list in a RecyclerView. The app can 
+1. save a new note
+2. update the existing note
+3. delete the single selected note
+4. delete all the note in the app
 
 ## Codelabs Assignments 
 * <a href="/assignments/assignmets.md"> codelabs Pratices( Week 2 to Week 11)</a>
